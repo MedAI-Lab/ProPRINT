@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.drawio-tmp/
+
+# Local data are not distributed with the public code repository.
+/data/**
+!/data/
+!/data/.gitkeep
+
+# Generated outputs and trained checkpoints are not tracked.
+/outputs/**
+!/outputs/
+!/outputs/proprint/
+!/outputs/proprint/.gitkeep
+
+/weights/**
+!/weights/
+!/weights/proprint/
+!/weights/proprint/.gitkeep
+
+*.pth
+*.pt
+*.ckpt
+*.npz
+
