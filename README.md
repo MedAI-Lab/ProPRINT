@@ -1,6 +1,6 @@
 # ProPRINT
 
-<img src="assets/proprint_logo.png" alt="ProPRINT logo" style="zoom:25%;" />
+<img src="assets/proprint_logo.png" alt="ProPRINT logo" width="160" />
 
 Prototype-Guided Protein Representation Inference from Thyroid Ultrasound
 (ProPRINT) is a two-stage deep learning framework for inferring virtual protein
